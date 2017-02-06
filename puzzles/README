@@ -1,0 +1,20 @@
+Humans who write crossword puzzles often use standard grids.  The
+grids in this directory are all standard -- one was copied from People
+magazine, and the rest are from an existing puzzle generator.
+
+For your enjoyment, here are many more grids of varying size 
+and difficulty:
+
+   http://puzzles.about.com/library/grids/blockind.htm
+
+These grids have been used for many puzzles, so presumably there are
+many ways to fill them out.  Even a human can fill them out, so a
+computer should be able to do so too.  
+
+On the other hand, human crossword writers generally use a very big
+dictionary -- 150,000 to 1,000,000 words, including many weird little
+words and even acronyms.  That helps them get out of tight corners.
+The "words" file we gave you for this assignment only has 20,000
+words.  We don't know which of the hard grids are actually SATisfiable
+with the small dictionary, and which are UNSATisfiable.
+
